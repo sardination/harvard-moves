@@ -2,13 +2,18 @@
 
 Even while we're all off campus, it's important to keep moving! Join in to help your house beat the others in this friendly competition!
 
+### #HarvardMoves
+
+What have you been up to? Show off your workouts by posting to social media and using the hashtag __#HarvardMoves__! Tag your house accounts on your posts to see what everyone around campus has been doing.
+
+<a href="https://twitter.com/intent/tweet?button_hashtag=HarvardMoves&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #HarvardMoves</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> or use __#HarvardMoves__ on Instagram
+
 ### Who will finish a year's worth of exercise first?
 
-Keep track of how many minutes of exercise you do each day and report it [___here___](https://forms.gle/DM885kDhJ9gyZXvP9). The goal is to get your house to a *year's worth of exercise* - that's 525,600 minutes - first!
+Keep track of how many minutes of exercise you do each day and report it [___here___](https://forms.gle/DM885kDhJ9gyZXvP9). The goal is to get your house to a *year's worth of exercise* - that's 525,600 minutes - first! You can report up to 3 hours of exercise each day to help out your house.
 
 <table><tr><th>House</th><th>Minutes Exercised</th><th>Time of the Year Reached</th><th>Finished a Year?</th></tr></table>
 
-### #HarvardMoves
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
 <script>
