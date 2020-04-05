@@ -18,7 +18,7 @@ Keep track of how many minutes of exercise you do each day and report it [___her
 <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
 <script>
 
-var spreadsheet_id = "1ioYTL8RvrMvwxpoKRv7smNDj6CjQbgJBiThVWuvB0KM",
+var spreadsheet_id = "1kLioSypBWlQJtU_Z4LP8-7J7da6ElbB4dWGgT9EFU64",
     url = "https://spreadsheets.google.com/feeds/list/" +
           spreadsheet_id +
           "/default/public/values?alt=json";
@@ -54,10 +54,13 @@ var min_in_year = 525600;
 $.get({
   url: url,
   success: function(response) {
-    var data = response.feed.entry,
-    len = data.length,
-    i = 0,
-    media_links = [];
+    var data = response.feed.entry;
+    var len = 0;
+    if (data) {
+        len = data.length
+    }
+    var i = 0;
+    var media_links = [];
 
     var current_day = null;
     var reported_emails = [];
