@@ -141,7 +141,7 @@ $.get({
         if (time_reached != null) {
             new_row += "<td>Finished on " + monthNames[time_reached.getMonth()] + " " + time_reached.getDate() + ", " + time_reached.getYear() + "</td></tr>";
         } else {
-            new_row += "<td>Still some more exercise to be done!</td></tr>"
+            new_row += "<td>Keep going!</td></tr>"
         }
         table_obj.append(new_row)
     }
