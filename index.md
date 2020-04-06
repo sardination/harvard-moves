@@ -36,7 +36,7 @@ var houses = [
     'Leverett',
     'Lowell',
     'Mather',
-    'Pfzorheimer',
+    'Pforzheimer',
     'Quincy',
     'Winthrop'
 ]
